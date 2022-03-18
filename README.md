@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mguirado18
-- 👀 I’m interested in Videogames, Coding, Anime
-- 🌱 I’m currently learning JavaScript, HTML
-- 💞️ I’m looking to collaborate on Discord Bots
+- 👀 I’m interested in Videogames, Coding
+- 🌱 I’m currently learning JavaScript, HTML, Java, CSS
+- 💞️ I’m looking to collaborate on Discord Bots, Minecraft Servers
 - 📫 How to reach me mguirado18.business@gmail.com
 
 <!---
